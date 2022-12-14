@@ -1,0 +1,17 @@
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\bin\Debug\csillahul.exe.config
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\bin\Debug\csillahul.exe
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\bin\Debug\csillahul.pdb
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\obj\Debug\csillahul.csprojAssemblyReference.cache
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\obj\Debug\csillahul.Form1.resources
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\obj\Debug\csillahul.Properties.Resources.resources
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\obj\Debug\csillahul.csproj.GenerateResource.cache
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\obj\Debug\csillahul.csproj.CoreCompileInputs.cache
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\obj\Debug\csillahul.exe
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\obj\Debug\csillahul.pdb
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\obj\Debug\csillahul.Form2.resources
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\obj\Debug\csillahul.Form5.resources
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\obj\Debug\csillahul.Form3.resources
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\obj\Debug\csillahul.Form4.resources
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\obj\Debug\csillahul.Teszt.resources
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\obj\Debug\csillahul.Visual.resources
+C:\Users\ivani\Desktop\Új mappa\csillahul\csillahul\obj\Debug\csillahul.Form6.resources
